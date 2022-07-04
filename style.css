@@ -1,0 +1,130 @@
+body{
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+    background-image: url(./img/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.section1{
+    display: flex;
+    
+}
+
+.d1 h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+
+.d1 p{
+    font-size: 20px;
+    width: 570px;
+    line-height: 26px;
+    padding-bottom: 30px;
+    color: rgb(106, 92, 92);
+}
+.d1 h3{
+    font-size: 20px;
+}
+
+.d1 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(orange, tomato);
+    padding: 15px 25px;   
+    font-weight: 400;
+}
+
+.section2{
+    display: flex;
+    margin-top: 80px;
+}
+
+.d4 {
+    margin:100px 50px;
+}
+.d4 h1{
+    font-size: 50px;
+}
+.d4 p{
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+.d4 a{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 7px 15px;
+    font-size: 18px;
+}
+.section2 img{
+    margin-top: 100px;
+}
+
+h4{
+    font-size: 40px;
+}
+.section3{
+    display: flex;
+    padding-bottom: 150px;
+}
+
+
+.section3 .d5{
+    width: 1000px;
+    background-color:  rgb(218, 224, 230);
+    height: 400px;
+    margin-right: 40px;
+    border-left: 8px solid tomato;
+    box-shadow:  5px 5px 5px 5px rgb(229, 233, 235);
+}
+.section3 .d6{
+    width: 1000px;
+    background-color: rgb(218, 224, 230);
+    height: 400px;
+    margin-left: 40px;
+    border-left: 8px solid blue;
+    box-shadow:  5px 5px 5px 5px rgb(229, 233, 235);
+}
+
+.d5{
+    padding-left: 50px;
+    padding-right: 10px;
+}
+.d6 {
+    padding-left: 50px;
+    padding-right: 10px;
+}
+.d6 h1{
+    font-size: 30px; 
+     
+}
+.d6 p{
+    font-size: 25px;
+    color: rgb(50, 43, 43);
+    line-height: 29px;
+}
+.d5 h1{
+    font-size: 30px;  
+}
+.d5  h2{
+    color: orange;
+}
+.d6 h2{
+    color: orange;
+}
+.d5 p{
+    font-size: 25px;
+    color: rgb(50, 43, 43);
+    line-height: 29px;
+}
+p{
+    text-align: center;
+    padding: 20px;
+    color: rgb(8, 28, 251);
+    font-size: 20px;
+}
